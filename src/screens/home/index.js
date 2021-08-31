@@ -14,10 +14,10 @@ const HomeScreen = () => (
         <Column.Group>
           <Column size={5}>
             <Title size={2} spaced className="has-text-white">
-              Create notes easily and access when you wants on the cloud
+            Tame your work, organize your life
             </Title>
             <Title size={5} spaced className="has-text-light" subtitle>
-            Tame your work, organize your life.
+            Remember everything and tackle any project with your notes in one place.
             </Title>
             <Link to='/register' className="button is-outlined is-white is-large">
               <strong>Register Now for free</strong>
