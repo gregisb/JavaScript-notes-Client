@@ -1,3 +1,12 @@
+# JavaScript Notes
+
+JavaScript Notes é uma aplicação completa baseada em aplicações como Evernote. Nesse projeto o usuário pode fazer um cadastro e ter acesso a uma plataforma em que pode adcionar, salvar e alterar notas. Também é possível que o usuário modifique suas credenciais, como e-mail, senha e nome. Aplicação completa, front-end e back-end. (Hospedado no Heroku).
+
+Client: Desenvolvido em ReactJs.
+
+API: https://github.com/gregisb/api-js-notes
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
